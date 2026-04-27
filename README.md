@@ -39,61 +39,6 @@
 
 ---
 
-## 🔭 Currently Building
-
-<div align="center">
-
-[![Jarvis](https://img.shields.io/badge/🤖_JARVIS-Iron_Man_AI_Assistant-0d1117?style=for-the-badge&logo=anthropic&logoColor=00d9ff&labelColor=0a1628)](https://github.com/Carre29/Jarvis)&nbsp;
-[![LOL Agent](https://img.shields.io/badge/🎮_LOL_AGENT-League_of_Legends_AI-0d1117?style=for-the-badge&logoColor=9b4fff&labelColor=0a1628)](https://github.com/Carre29/LOL_Agent)&nbsp;
-[![TikTok Auto](https://img.shields.io/badge/📱_TIKTOK_AUTO-Content_Automation-0d1117?style=for-the-badge&logo=tiktok&logoColor=00ff88&labelColor=0a1628)](https://github.com/Carre29/tiktok-auto)
-
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-### 🌐 Systems & Networking
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=linux,bash,windows,docker,nginx,git&theme=dark"/>
-</div>
-
-<div align="center">
-<br/>
-
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat-square&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-
-</div>
-
-### 🤖 AI & Automation
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,jupyter,fastapi,selenium&theme=dark"/>
-</div>
-
-<div align="center">
-<br/>
-
-![Claude API](https://img.shields.io/badge/Claude_API-191919?style=flat-square&logo=anthropic&logoColor=00d9ff)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-0d1117?style=flat-square&logoColor=white)
-
-</div>
-
-### 💻 Dev & Tools
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=github,vscode,html,css,js,markdown&theme=dark"/>
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -123,7 +68,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Carre29&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Carre29&theme=darkhub&no-frame=true&no-bg=true&margin-w=6"/>
 
 </div>
 
