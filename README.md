@@ -1,12 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:0d1117,50:0a1628,100:0d0d20&height=200&section=header&text=Gerard%20Carr%C3%A9&fontSize=56&fontColor=00d9ff&animation=twinkling&fontAlignY=45&desc=IT%20Systems%20%26%20Networks%20%7C%20AI%20Explorer&descColor=9b4fff&descAlignY=64&descSize=17"/>
+# Gerard Carré
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=750&height=40&lines=Hello+World!+%F0%9F%91%8B+I'm+Gerard+Carr%C3%A9;%3E+IT+Systems+%26+Network+Administrator+%F0%9F%96%A5%EF%B8%8F;%3E+Exploring+Artificial+Intelligence+%F0%9F%A4%96;%3E+Building+automation+%26+AI+tools+%F0%9F%9A%80;%3E+Always+learning%2C+always+building...)](https://git.io/typing-svg)
+### `> IT Systems & Networks | AI Explorer`
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:0a1628,100:0d0d20&height=120&section=header&text=IT%20Systems%20%26%20AI%20Explorer&fontColor=00d9ff&fontSize=28&animation=fadeIn&fontAlignY=65&desc=Sysadmin%20·%20Builder%20·%20Learner&descColor=9b4fff&descSize=16&descAlignY=85"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=750&height=40&lines=Hello+World!+%F0%9F%91%8B+I'm+Gerard+Carr%C3%A9;%3E+IT+Systems+%26+Network+Administrator+%F0%9F%96%A5%EF%B8%8F;%3E+Exploring+Artificial+Intelligence+%F0%9F%A4%96;%3E+Building+automation+%26+AI+tools+%F0%9F%9A%80;%3E+Always+learning%2C+always+building...)](https://git.io/typing-svg)
 
 <br/>
 
@@ -68,14 +68,9 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0a1628,50:0d1117,100:0a1628&height=130&text=Always%20Learning%2C%20Always%20Building&fontColor=00d9ff&fontSize=24&animation=twinkling&desc=Open%20to%20collaborate%20·%20gerardcarre5%40gmail.com&descColor=9b4fff&descSize=14&descAlignY=75"/>
+[![Email](https://img.shields.io/badge/Email-gerardcarre5%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=00d9ff&labelColor=0a1628)](mailto:gerardcarre5@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Carre29-0d1117?style=for-the-badge&logo=github&logoColor=9b4fff&labelColor=0a1628)](https://github.com/Carre29)
 
 </div>
 
 ---
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:0d0d20,50:0a1628,100:0d1117&height=100&section=footer"/>
-
-</div>
