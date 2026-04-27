@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="assets/neural_network.svg" width="100%" alt="Neural Network"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:0a1628,100:0d0d20&height=120&section=header&text=IT%20Systems%20%26%20AI%20Explorer&fontColor=00d9ff&fontSize=28&animation=fadeIn&fontAlignY=65&desc=Sysadmin%20·%20Builder%20·%20Learner&descColor=9b4fff&descSize=16&descAlignY=85"/>
 
 <br/>
 
@@ -64,11 +64,11 @@
 
 ---
 
-## 🏆 Trophies
+## 📡 Connect
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Carre29&theme=darkhub&no-frame=true&no-bg=true&margin-w=6"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0a1628,50:0d1117,100:0a1628&height=130&text=Always%20Learning%2C%20Always%20Building&fontColor=00d9ff&fontSize=24&animation=twinkling&desc=Open%20to%20collaborate%20·%20gerardcarre5%40gmail.com&descColor=9b4fff&descSize=14&descAlignY=75"/>
 
 </div>
 
