@@ -64,12 +64,23 @@
 
 ---
 
+## 🎵 Spotify — Now Playing
+
+<div align="center">
+
+[![Spotify](https://spotify-github-profile.kittinan.xyz/api/spotify?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=natemoo-re&show_offline=false&background_color=0d1117&interchange=false&bar_color=00d9ff&bar_color_cover=false)](https://spotify-github-profile.kittinan.xyz/api/spotify?uid=YOUR_SPOTIFY_UID&redirect=true)
+
+</div>
+
+---
+
 ## 📡 Connect
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-gerardcarre5%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=00d9ff&labelColor=0a1628)](mailto:gerardcarre5@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Carre29-0d1117?style=for-the-badge&logo=github&logoColor=9b4fff&labelColor=0a1628)](https://github.com/Carre29)
+[![Spotify](https://img.shields.io/badge/Spotify-Listen-0d1117?style=for-the-badge&logo=spotify&logoColor=1DB954&labelColor=0a1628)](https://open.spotify.com)
 
 </div>
 
